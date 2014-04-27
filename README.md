@@ -3,6 +3,7 @@ Coursera - Data Science specialization
 ## GitHub repo - Peer Assignment Cleaning Data
 * This repo includes the following files :
  * "README.md"
+ * "final\_data\_1.txt" the first tidy data set.
  * "final\_data\_2.txt" the second tidy data set.
  * "activity_labels.txt", indexation of the activities (given).
  * "features_info.txt", information about the features (given).
